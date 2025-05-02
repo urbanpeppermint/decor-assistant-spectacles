@@ -1,0 +1,14 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - 28acd07f-19f9-4bcd-8b56-6b0b4208a987: /Users/elsafz/Downloads/Scandi_rug.gltf
+    - 35501dd8-c5cf-4208-aacc-341a8870a5c1: /Users/elsafz/Downloads/Scandinavian_Vase_Set.gltf
+    - 39e65524-a835-4173-b19e-68a675a0593f: /Users/elsafz/Downloads/Vintage_Persian_Rug.gltf
+    - 43182d41-be17-4de3-8f68-155991927594: /Users/elsafz/Downloads/last_boho_paint.glb
+    - 4726c881-591b-424d-857a-de9bea11a3b4: /Users/elsafz/Downloads/Vintage_Painting.gltf
+    - 609e3b83-8fef-4bae-974b-14d7ef7d8322: /Users/elsafz/Downloads/Scandi_Painting.gltf
+    - 6fdabdc5-bfee-4a33-8808-4e7e66e79147: /Users/elsafz/Downloads/boho_Painting.gltf
+    - 75f9fac6-14d7-4f36-931a-dd9d3056db75: /Users/elsafz/Downloads/rug.glb
+    - 77bc03db-2553-4417-a101-70eacaf273d6: /Users/elsafz/Downloads/vintage_vase.gltf
+    - 87dca6e0-1310-4342-b8ab-be968688ca7f: /Users/elsafz/BOHO_VASE.fbx
+  options: 4
