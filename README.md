@@ -66,9 +66,9 @@ virtual objects using SpawnOnSurface for personalized design.
 **Key Extensions**:
 - **Custom OpenAI Integration**: Seamlessly integrates GPT-4o for 
 intelligent style analysis and DALLE for realistic image generation.
-- **Enhanced Object Library**: Includes a curated selection of 
-high-quality 3D models sourced from Sketchfab (see Licenses & 
-Attributions).
+
+## 🎥 Demo
+[![Watch Demo Video](https://youtu.be/n2HYkKANrEA?si=R6P6HucjT5cHo6rp)
 
 ## ⚙️ Setup
 ### Prerequisites
