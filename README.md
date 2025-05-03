@@ -68,7 +68,7 @@ virtual objects using SpawnOnSurface for personalized design.
 intelligent style analysis and DALLE for realistic image generation.
 
 ## 🎥 Demo
-[![Watch Demo Video](https://youtu.be/n2HYkKANrEA?si=R6P6HucjT5cHo6rp)
+[![Watch Demo Video](https://www.youtube.com/watch?v=n2HYkKANrEA)
 
 ## ⚙️ Setup
 ### Prerequisites
